@@ -1,7 +1,7 @@
-*.ss~
-*.ss#*
-.#*.ss
+*.img
+*.png
+.#*.css
 
-*.scm~
-*.scm#*
-.#*.scm
+*.gif
+*.pxl#*
+.#*.ico
